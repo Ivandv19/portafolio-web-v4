@@ -133,7 +133,7 @@ const Hero = () => {
       <div className="flex flex-col items-center gap-4">
         {/* Botón Descargar CV */}
         <a
-          href=""
+          href="/cv.pdf"
           download
           className="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-md transition-all duration-300 shadow-[0_0_15px_rgba(220,38,38,0.4)] hover:shadow-[0_0_25px_rgba(220,38,38,0.6)]"
         >
