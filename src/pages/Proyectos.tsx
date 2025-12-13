@@ -20,7 +20,7 @@ const Projects = () => {
       description:
         "Aluraflix es una aplicación web diseñada para gestionar y explorar una colección de videos. La aplicación permite a los usuarios visualizar videos filtrados por categoría, eliminar y editar videos, y crear nuevos videos mediante un formulario.",
       image:
-        "/src/assets/aluraflix.png",
+        "/aluraflix.png",
       tags: ["HTML", "CSS", "JavaScript", "React", ],
       links: {
         demo: "https://space-app-v3.vercel.app/",
@@ -33,7 +33,7 @@ const Projects = () => {
       description:
         "Space App V3 es una aplicación interactiva para gestionar y visualizar contenido diverso sobre el espacio, incluyendo una galería de imágenes, noticias y un apartado del sistema solar.",
       image:
-        "/src/assets/space-app-v3.png",
+        "/space-app-v3.png",
       tags: ["React", "React Router", "API NASA", "CSS Modules"],
       links: {
         demo: "https://spaceapp-ivandv19.netlify.app",
@@ -46,7 +46,7 @@ const Projects = () => {
       description:
         "Este proyecto es una aplicación para gestionar y visualizar una galería de fotos, con funcionalidades para filtrar y buscar contenido por una palabra o por tags. Está diseñado para proporcionar una experiencia interactiva y visualmente atractiva.",
       image:
-        "/src/assets/space-app-v2.png",
+        "/space-app-v2.png",
       tags: ["HTML", "CSS", "JavaScript", "React"],
       links: {
         demo: "https://space-appv2.vercel.app/", 
@@ -59,7 +59,7 @@ const Projects = () => {
       description:
         "Este proyecto es una aplicación para gestionar y visualizar videos, con funcionalidades como vizualizar y agregar a una seccion especial de favoritos. Está diseñado para proporcionar una experiencia interactiva y visualmente atractiva.",
       image:
-        "/src/assets/alura-cinema.png",
+        "/alura-cinema.png",
       tags: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
       links: {
         demo: "https://alura-cinema-gamma.vercel.app/",
@@ -72,7 +72,7 @@ const Projects = () => {
       description:
         "Desafío de Lógica. Aplicación que encripta y desencripta mensajes para intercambiar información secreta usando llaves de sustitución.",
       image:
-        "/src/assets/encriptador-de-texto.png",
+        "/encriptador-de-texto.png",
       tags: ["HTML5", "CSS3", "JavaScript",],
       links: {
         demo: "https://encriptador-nine-eta.vercel.app/",
@@ -85,7 +85,7 @@ const Projects = () => {
       description:
         "Sitio web para tienda de mascotas. Enfoque en validación de formularios (Regex) y arquitectura de navegación fluida.",
       image:
-        "/src/assets/petshop.png",
+        "/petshop.png",
       tags: ["HTML", "CSS", "JavaScript", "React"],
       links: {
         demo: "https://petshop-kappa-ten.vercel.app/",
@@ -98,7 +98,7 @@ const Projects = () => {
       description:
         "App de productividad basada en la técnica Pomodoro. Manejo de temporizadores, audio y estados de la aplicación para enfoque y descanso.",
       image:
-        "/src/assets/fokus.png",
+        "/fokus.png",
       tags: ["HTML5", "CSS3", "JavaScript"],
       links: {
         demo: "https://fokus-chi-ten.vercel.app/",
