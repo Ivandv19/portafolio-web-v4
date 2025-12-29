@@ -18,7 +18,7 @@ const Projects = () => {
       description:
         "Fluxbeats es una aplicación web para mostrar un servicio de ventas de licencias de beats musicales libres de derechos de autor.",
       image:
-        "/fokus.png",
+        "/fluxbeats.png",
       tags: ["React", "Vite", "Tailwindcss", "Node.js"],
       links: {
         demo: "https://landing-page.mgdc.site",
