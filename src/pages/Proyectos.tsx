@@ -11,9 +11,21 @@ import {
 
 const Projects = () => {
   const projects = [
- 
 
-  
+    {
+      id: 1,
+      title: "Fluxbeats",
+      description:
+        "Fluxbeats es una aplicación web para mostrar un servicio de ventas de licencias de beats musicales libres de derechos de autor.",
+      image:
+        "/fokus.png",
+      tags: ["React", "Vite", "Tailwindcss", "Node.js"],
+      links: {
+        demo: "https://landing-page.mgdc.site",
+        github: "https://github.com/Ivandv19/landing-page-1906.git",
+      },
+    },
+ 
     {
       id: 2,
       title: "Alura Flix",
@@ -105,6 +117,7 @@ const Projects = () => {
         github: "https://github.com/Ivandv19/Fokus.git",
       },
     },
+
    
   ];
 
