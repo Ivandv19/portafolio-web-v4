@@ -26,8 +26,23 @@ const Projects = () => {
       },
     },
  
+
     {
       id: 2,
+      title: "Gestor de activos",
+      description:
+        "Gestor de activos es una aplicacion web para administrqar activos de una empresa, permitiendo llevar un control detallado de los mismos.",
+      image:
+        "/gestor-activos.png",
+      tags: ["Angular", "TypeScript", "Node.js", "Express", "MySQL"],
+      links: {
+        demo: "https://gestor.mgdc.site/",
+        github: "https://github.com/Ivandv19/gestor-activos.git",
+      },
+    },
+ 
+    {
+      id: 3,
       title: "Alura Flix",
       description:
         "Aluraflix es una aplicación web diseñada para gestionar y explorar una colección de videos. La aplicación permite a los usuarios visualizar videos filtrados por categoría, eliminar y editar videos, y crear nuevos videos mediante un formulario.",
@@ -35,12 +50,12 @@ const Projects = () => {
         "/aluraflix.png",
       tags: ["HTML", "CSS", "JavaScript", "React", ],
       links: {
-        demo: "https://space-app-v3.vercel.app/",
-        github: "https://github.com/Ivandv19/space-app-v3.git",
+        demo: "https://alura-flix-flax.vercel.app/",
+        github: "https://github.com/Ivandv19/challenge-aluraflix.git",
       },
     },
     {
-      id: 3,
+      id: 4,
       title: "Space App V3",
       description:
         "Space App V3 es una aplicación interactiva para gestionar y visualizar contenido diverso sobre el espacio, incluyendo una galería de imágenes, noticias y un apartado del sistema solar.",
@@ -48,12 +63,12 @@ const Projects = () => {
         "/space-app-v3.png",
       tags: ["React", "React Router", "API NASA", "CSS Modules"],
       links: {
-        demo: "https://spaceapp-ivandv19.netlify.app",
-        github: "https://github.com/Ivandv19/space-app",
+        demo: "https://space-app-v3.vercel.app/",
+        github: "https://github.com/Ivandv19/space-app-v3.git",
       },
     },
     {
-      id: 4,
+      id: 5,
       title: "Space App v2",
       description:
         "Este proyecto es una aplicación para gestionar y visualizar una galería de fotos, con funcionalidades para filtrar y buscar contenido por una palabra o por tags. Está diseñado para proporcionar una experiencia interactiva y visualmente atractiva.",
@@ -66,7 +81,7 @@ const Projects = () => {
       },
     },
     {
-      id: 5,
+      id: 6,
       title: "Alura Cinema",
       description:
         "Este proyecto es una aplicación para gestionar y visualizar videos, con funcionalidades como vizualizar y agregar a una seccion especial de favoritos. Está diseñado para proporcionar una experiencia interactiva y visualmente atractiva.",
@@ -79,7 +94,7 @@ const Projects = () => {
       },
     },
     {
-      id: 6,
+      id: 7,
       title: "Encriptador de Texto",
       description:
         "Desafío de Lógica. Aplicación que encripta y desencripta mensajes para intercambiar información secreta usando llaves de sustitución.",
@@ -92,7 +107,7 @@ const Projects = () => {
       },
     },
     {
-      id: 7,
+      id: 8,
       title: "PetShop",
       description:
         "Sitio web para tienda de mascotas. Enfoque en validación de formularios (Regex) y arquitectura de navegación fluida.",
@@ -105,7 +120,7 @@ const Projects = () => {
       },
     },
     {
-      id: 8,
+      id: 9,
       title: "Fokus",
       description:
         "App de productividad basada en la técnica Pomodoro. Manejo de temporizadores, audio y estados de la aplicación para enfoque y descanso.",
