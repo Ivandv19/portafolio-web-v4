@@ -1,0 +1,17 @@
+# Ivan's Portfolio
+
+> Full Stack Web Developer specializing in React, TypeScript, and Modern Web Technologies.
+
+## Sections
+
+- [Home](/) - Introduction and Hero section.
+- [Projects](/proyectos) - Showcase of recent web development work and applications.
+- [Experience](/experiencia) - Professional history and roles.
+- [Skills](/skills) - Technical stack including React, Node.js, TypeScript, Tailwind CSS.
+- [About](/sobre-mi) - Personal background and philosophy.
+- [Contact](/contacto) - Channels for professional inquiries.
+
+## Technical Details
+
+- **Stack**: React 19, Vite, Tailwind CSS 4, TypeScript.
+- **Goals**: Creating high-performance, accessible, and aesthetically pleasing web experiences.
